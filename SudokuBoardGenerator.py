@@ -1,13 +1,3 @@
-########################################################
-#   Current Bugs:
-#       -backtracking hits recursion depth 40-60% of the time
-#   Things to implement:
-#       -backtracking algo to complete boards
-#       -GUI
-#       -Solving functionality
-#
-#
-########################################################
 
 import random
 import sys
